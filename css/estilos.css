@@ -1,0 +1,53 @@
+.encabe{
+    background-color:#000; 
+    color: #fff;
+    padding: 20px 10px 20px 10px;
+}
+/*-----Menu-----*/
+.navbar{
+    background-color: #fff;
+    margin: 0;
+}
+.menu {
+    margin: 0;
+    padding: 0;
+    border-bottom: 1px solid rgb(138, 5, 190);
+    background-color: #fff;
+    position: fixed;
+    top:0;left: 0; right: 0;
+    z-index: 1;
+}
+
+.btn_clas{
+	text-decoration: none;
+    height: 100%;
+    background-color: rgb(138, 5, 190);
+    display: block;
+	color: #fff;
+    padding: 30px;
+    font-size: 18px;
+    cursor: pointer;
+    font-family: Graphik,'Gotham SSm A','Gotham SSm B','Helvetica Neue',Helvetica,Arial,sans-serif !important;
+}
+
+.btn_clas1{
+	text-decoration: none;
+    height: 100%;
+    background-color: #fff;
+    display: block;
+	color: rgb(138, 5, 190);
+    padding: 30px;
+    font-size: 18px;
+    cursor: pointer;
+    font-family: Graphik,'Gotham SSm A','Gotham SSm B','Helvetica Neue',Helvetica,Arial,sans-serif !important;
+}
+.btn_clas:hover{
+    background-color: rgb(138, 5, 190);
+    color: #fff;
+    text-decoration: none;
+}
+.btn_clas1:hover{
+	background-color: #fff;
+    color: rgb(138, 5, 190);
+    text-decoration: none;
+}
