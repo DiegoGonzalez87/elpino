@@ -58,14 +58,15 @@
     margin: auto;
     overflow: hidden; 
 }
+
 .dongato{
-    background: url("../image/9.jpg"), #49A3D6;
+    background: url("../image/9.jpg"), rgb(146, 209, 245);
     background-repeat: no-repeat;
     background-position: center;
     height: 100%;
-    width: 100%;
+    max-width: 100%;
     max-height: 600px; 
-    margin-top: 90px;
+    margin-top: 85px;
 }
 
 .dongato .contenedor-texto {
