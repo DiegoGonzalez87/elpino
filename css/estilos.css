@@ -54,18 +54,18 @@
 
 .contenedor {
     width: 90%;
-    max-width: 1800px;
+    max-width: 1000px;
     margin: auto;
     overflow: hidden; 
 }
 
 .dongato{
-    background: url("../image/flores.jpg"), rgb(146, 209, 245);
+    background: url("../image/flores1.jpg"), rgb(146, 209, 245);
     background-repeat: no-repeat;
     background-position: center;
     max-height: 600px; 
     margin-top: 85px;
-    
+    border-bottom: 5px solid rgba(14, 136, 40, 0.9); 
 }
 
 .dongato .contenedor-texto {
@@ -103,9 +103,9 @@
     margin-top: -60px; 
 }
 .main .acerca-de .foto img {
-    border-radius: 100%;
-    vertical-align: top;
-    border: 5px solid rgba(255, 255, 255, 0.2); 
+    /* border-radius: 100%; */
+    /* vertical-align: top; */
+    /* border: 5px solid rgba(14, 136, 40, 0.9);  */
 }
 
 
