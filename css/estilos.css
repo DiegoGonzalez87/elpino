@@ -284,3 +284,17 @@ main .contenedor {
 .redes-sociales .twitter {background: #1da1f2;}
 .redes-sociales .instagram {background: #833ab4;}
 .redes-sociales .facebook {background: #3b5998;}
+
+/* Dispositivo md */
+@media screen and (max-width: 767px) {}
+
+/* Dispositivo sm */
+@media screen and (max-width: 575px) {
+
+	.redes-sociales .icono {
+		width: 50px;
+		height: 50px;
+		line-height: 50px;
+		font-size: 20px;
+	}
+}
